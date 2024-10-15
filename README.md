@@ -1,2 +1,2 @@
 # maven-test
-new test
+new test 2
